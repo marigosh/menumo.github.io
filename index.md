@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/marigosh/menumo.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h2>OUR FOOD</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+<div id="container">
+    <nav>
+        <ul>
+            
+            <li><a href="#">PIZZA</a>
+            <ul>
+                <li><a href="#">omg</a></li>
+                <li><a href="#">i won`t write</a></li>
+                <li><a href="#">all</a></li>
+                <li><a href="#">name of</a></li>
+                <li><a href="#">pizzes</a></li>
+            </ul>        
+            </li>
+            <li><a href="#">SUSHI</a>
+            <ul>
+                <li><a href="#">u still</a></li>
+                <li><a href="#">think that</a></li>
+                <li><a href="#">i will write</a></li>
+                <li><a href="#">name of sushi</a></li>
+                <li><a href="#">AHHAAHHA</a></li>
+            </ul>        
+            </li>
+                    <li><a href="#">OMG FOOD</a>
+                    <ul>
+                        <li><a href="#">AHAHHAHA</a></li>
+                        <li><a href="#">i love icecream</a></li>
+                        <li><a href="#">iceream</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+                        <ul>
+                            <li><a href="#">u like icecream?</a></li>
+                            <li><a href="#">tell me okey</a></li>
+                            <li><a href="#">OKEYYY???</a>
+                                <ul>
+                                    <li><a href="#">if not...</a></li>
+                                    <li><a href="#">i will kill u!</a></li>
+                                    <li><a href="#">ahah, joke ofc</a></li>
+                                    <li><a href="#">or not?</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        </li>
+                    </ul>
+                    </li>
+            <li><a href="#">THE LAST ONE</a>
+            <ul>
+                <li><a href="#">pasta</a></li>
+                <li><a href="#">i like food</a></li>
+                <li><a href="#">food is the best </a></li>
+                <li><a href="#">thing EVER</a></li>
+                <li><a href="#">I KNOW THAT</a></li>
+                <li><a href="#">U LIKE MEAT</a></li>
+                
+            </ul>        
+            </li>
+            
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marigosh/menumo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+        </ul>
+    </nav>
+</body>
+</html>
